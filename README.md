@@ -28,16 +28,15 @@ XSS Inspector is a tool that identifies parameters that exist for reflected XSS 
    ※ Because the tool was developed based on Burp Suite, I recommend using Burp Suite.
 
    1) Requests를 Text 필드에 붙여넣습니다.
-  
-   Paste the Requests into the Text field.
+      Paste the Requests into the Text field.
 
-   2) Search 버튼을 누릅니다.
+   3) Search 버튼을 누릅니다.
 
-   Press the "Search" button.
+      Press the "Search" button.
 
    3) 잠시 기다립니다.
       
-   Please wait a moment.
+      Please wait a moment.
 
    4) 취약한 파라미터가 출력됩니다. 해당 파라미터를 통해 Reflected XSS를 점검합니다.
 
