@@ -3,6 +3,9 @@ XSSInspector는 Reflected XSS 가능성이 존재하는 파라미터를 식별�
 
 XSS Inspector is a tool that identifies parameters that exist for reflected XSS possibilities.
 
+# Installation
+
+
 # Usage
 1. 옵션을 선택합니다. (Select options.)
    
@@ -40,6 +43,9 @@ XSS Inspector is a tool that identifies parameters that exist for reflected XSS 
       Please wait a moment.
 
    4) 취약한 파라미터가 출력됩니다. 해당 파라미터를 통해 Reflected XSS를 점검합니다.
+      
+      Vulnerable parameters are output.
+      Check the Reflected XSS using the corresponding parameters.
 
    
    
