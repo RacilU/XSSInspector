@@ -59,8 +59,14 @@ https://github.com/RacilU/XSSInspector/releases
 
    ![6](https://github.com/RacilU/XSSInspector/assets/168049442/f7112fb1-26a2-4c78-9506-9f505959bdee)
 
-   
-   
 
+# Upcoming update
+- GUI
+- XSS Attack
+- json, xml
 
+개선사항이나 문의는 아래 주소로 연락주세요! 감사합니다.
 
+For any improvements or inquiries, please contact us at the address below! Thank you!
+
+luke2005@naver.com.
