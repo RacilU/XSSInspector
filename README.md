@@ -24,7 +24,7 @@ XSS Inspector is a tool that identifies parameters that exist for reflected XSS 
    So, the test should be carried out by increasing the value of 'Unique String Count (default: 1).
    This is the number of unique strings included in the response value, which means that if 2 is entered, the response value will only be identified if there are two or more unique strings.
 
-      ![1](https://github.com/RacilU/XSSInspector/assets/168049442/ebe0a6fa-877f-476f-98b9-97ffb04591e9)
+   ![1](https://github.com/RacilU/XSSInspector/assets/168049442/ebe0a6fa-877f-476f-98b9-97ffb04591e9)
 
 3. 취약점이 존재하는 파라미터를 식별합니다. (Identifies parameters where vulnerabilities exist.)
    
@@ -36,13 +36,13 @@ XSS Inspector is a tool that identifies parameters that exist for reflected XSS 
           
       Copy the Buff Suite Request.
 
-      ![2](https://github.com/RacilU/XSSInspector/assets/168049442/a2370fb9-d729-415a-b55f-95cf6d13e68f)
+   ![2](https://github.com/RacilU/XSSInspector/assets/168049442/a2370fb9-d729-415a-b55f-95cf6d13e68f)
 
    3) Text 필드에 붙여넣은 후, Search 버튼을 누릅니다.
 
       Paste into the Text field and press the Search button.
 
-      ![3](https://github.com/RacilU/XSSInspector/assets/168049442/686ae7ca-3ea5-42f9-a733-254cdc2b5f24)
+   ![3](https://github.com/RacilU/XSSInspector/assets/168049442/686ae7ca-3ea5-42f9-a733-254cdc2b5f24)
 
    3) 잠시 기다립니다.
       
@@ -53,11 +53,11 @@ XSS Inspector is a tool that identifies parameters that exist for reflected XSS 
       Vulnerable parameters are output.
       Check the Reflected XSS using the corresponding parameters.
 
-      ![4](https://github.com/RacilU/XSSInspector/assets/168049442/f26e5635-241d-492f-a525-b6f66eec34f5)
+   ![4](https://github.com/RacilU/XSSInspector/assets/168049442/f26e5635-241d-492f-a525-b6f66eec34f5)
 
-      ![5](https://github.com/RacilU/XSSInspector/assets/168049442/6a7fece3-5a9d-41d6-bea5-a8c8df937e4c)
+   ![5](https://github.com/RacilU/XSSInspector/assets/168049442/6a7fece3-5a9d-41d6-bea5-a8c8df937e4c)
 
-      ![6](https://github.com/RacilU/XSSInspector/assets/168049442/f7112fb1-26a2-4c78-9506-9f505959bdee)
+   ![6](https://github.com/RacilU/XSSInspector/assets/168049442/f7112fb1-26a2-4c78-9506-9f505959bdee)
 
    
    
