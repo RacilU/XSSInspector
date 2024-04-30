@@ -4,7 +4,7 @@ XSSInspector는 Reflected XSS 가능성이 존재하는 파라미터를 식별�
 XSS Inspector is a tool that identifies parameters that exist for reflected XSS possibilities.
 
 # Installation
-
+https://github.com/RacilU/XSSInspector/releases
 
 # Usage
 1. 옵션을 선택합니다. (Select options.)
