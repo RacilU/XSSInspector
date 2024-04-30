@@ -24,7 +24,7 @@ XSS Inspector is a tool that identifies parameters that exist for reflected XSS 
    So, the test should be carried out by increasing the value of 'Unique String Count (default: 1).
    This is the number of unique strings included in the response value, which means that if 2 is entered, the response value will only be identified if there are two or more unique strings.
 
-   ![1](https://github.com/RacilU/XSSInspector/assets/168049442/ebe0a6fa-877f-476f-98b9-97ffb04591e9)
+      ![1](https://github.com/RacilU/XSSInspector/assets/168049442/ebe0a6fa-877f-476f-98b9-97ffb04591e9)
 
 3. 취약점이 존재하는 파라미터를 식별합니다. (Identifies parameters where vulnerabilities exist.)
    
